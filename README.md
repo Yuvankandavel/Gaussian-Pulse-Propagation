@@ -40,6 +40,14 @@ If a Gaussian pulse is input to a linear system with a Gaussian impulse response
 **Required Calculations:**
 <img width="1548" height="298" alt="image" src="https://github.com/user-attachments/assets/b2fb676a-afb0-48ef-914b-309b2ea38a17" />
 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/93124dc5-35f0-4ed0-a691-751665193ce6" />
+
+<img width="991" height="1600" alt="WhatsApp Image 2026-05-13 at 9 13 09 AM" src="https://github.com/user-attachments/assets/2059fc85-e532-45c1-b687-5182bd0a96da" />
+
+
+<img width="908" height="1600" alt="WhatsApp Image 2026-05-13 at 9 13 09 AM (1)" src="https://github.com/user-attachments/assets/0f5ed6aa-e65a-431f-bb26-e844c43ec303" />
+
+
 
 ## Layout
 Place and connect the following components:
@@ -66,5 +74,10 @@ Compare the simulation results with the theoretical calculations and discuss any
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
+## Result
+
+The output Gaussian pulse becomes wider due to dispersion in the optical fiber.
+
+The simulation results are nearly equal to theoretical values, with small differences due to practical effects.
 
 
